@@ -1,6 +1,6 @@
 ## Hey there, I am Oleg 👋
 
-I am front-end developer at @WezomAgency from Ukraine.  
+I am front-end developer at [@WezomCompany](https://github.com/WezomCompany), from Ukraine.  
 I love creating open-source tools that make a developer's life easier and more efficient.
 
 
