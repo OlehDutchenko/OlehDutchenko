@@ -1,7 +1,7 @@
 ## Hi, I'm Oleg 👋
 
 I am front-end developer at [@WezomCompany](https://github.com/WezomCompany), from Ukraine.  
-I love creating open-source tools that make a developer's life easier and more efficient.
+I enjoy building open-source tools that make a developer's life easier and more efficient.
 
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dutchenkoOleg&layout=compact">
